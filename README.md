@@ -1,2 +1,2 @@
-# NimRAD
+# NimRAD 🕶️
 Rapid Application Development with NIM
